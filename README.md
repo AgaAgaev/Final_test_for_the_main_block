@@ -96,7 +96,7 @@ string ReadInput(string msg)
 //  Функция вывода массива в терминал  
 void PrintArray(string[] array)  
 {  
-    
+
     Console.Write("[ ");  
     for (int i = 0; i < array.Length; i++)  
     {  
@@ -104,3 +104,5 @@ void PrintArray(string[] array)
     }  
     Console.Write("] ");  
 }  
+
+![Результатывыводатерминала](Результаты%20вывода%20терминала.jpg)
